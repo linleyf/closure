@@ -1,4 +1,4 @@
-var arr = ["Alice", "Bob", "Waldo", "Winston"]
+var arr = ["Alice", "Bob", "Waldo", "Winston"];
 
 var findWaldo = function(item, index, array){
 	if (item == "Waldo")
